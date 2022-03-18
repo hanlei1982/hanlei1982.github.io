@@ -3,12 +3,32 @@
     <title>hanlei&#x27;s blog</title>
     <link href="https://hanlei1982.github.io/feed.xml" rel="self" />
     <link href="https://hanlei1982.github.io" />
-    <updated>2022-03-18T14:21:55+08:00</updated>
+    <updated>2022-03-18T15:57:41+08:00</updated>
     <author>
         <name>hanlei</name>
     </author>
     <id>https://hanlei1982.github.io</id>
 
+    <entry>
+        <title>看看是不是软件原因</title>
+        <author>
+            <name>hanlei</name>
+        </author>
+        <link href="https://hanlei1982.github.io/kan-kan-shi-bu-shi-ruan-jian-yuan-yin.html"/>
+        <id>https://hanlei1982.github.io/kan-kan-shi-bu-shi-ruan-jian-yuan-yin.html</id>
+
+        <updated>2022-03-18T15:57:41+08:00</updated>
+            <summary>
+                <![CDATA[
+                    看看是不是软件原因，gridea总是同步失败，不知道publii能不能破除
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>看看是不是软件原因，gridea总是同步失败，不知道publii能不能破除</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>重复发布</title>
         <author>
