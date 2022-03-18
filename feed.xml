@@ -3,12 +3,32 @@
     <title>hanlei&#x27;s blog</title>
     <link href="https://hanlei1982.github.io/feed.xml" rel="self" />
     <link href="https://hanlei1982.github.io" />
-    <updated>2022-03-18T15:57:41+08:00</updated>
+    <updated>2022-03-18T16:10:46+08:00</updated>
     <author>
         <name>hanlei</name>
     </author>
     <id>https://hanlei1982.github.io</id>
 
+    <entry>
+        <title>很强悍</title>
+        <author>
+            <name>hanlei</name>
+        </author>
+        <link href="https://hanlei1982.github.io/hen-qiang-han.html"/>
+        <id>https://hanlei1982.github.io/hen-qiang-han.html</id>
+
+        <updated>2022-03-18T16:10:46+08:00</updated>
+            <summary>
+                <![CDATA[
+                    发现即使用浏览器打不开GitHub，用publii也能更新文章，你说厉害不厉害
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>发现即使用浏览器打不开GitHub，用publii也能更新文章，你说厉害不厉害</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>看看是不是软件原因</title>
         <author>

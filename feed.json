@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://hanlei1982.github.io/hen-qiang-han.html",
+            "url": "https://hanlei1982.github.io/hen-qiang-han.html",
+            "title": "很强悍",
+            "summary": "发现即使用浏览器打不开GitHub，用publii也能更新文章，你说厉害不厉害",
+            "content_html": "<p>发现即使用浏览器打不开GitHub，用publii也能更新文章，你说厉害不厉害</p>",
+            "author": {
+                "name": "hanlei"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-18T16:10:46+08:00",
+            "date_modified": "2022-03-18T16:10:46+08:00"
+        },
+        {
             "id": "https://hanlei1982.github.io/kan-kan-shi-bu-shi-ruan-jian-yuan-yin.html",
             "url": "https://hanlei1982.github.io/kan-kan-shi-bu-shi-ruan-jian-yuan-yin.html",
             "title": "看看是不是软件原因",
