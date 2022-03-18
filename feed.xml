@@ -3,10 +3,31 @@
     <title>hanlei&#x27;s blog</title>
     <link href="https://hanlei1982.github.io/feed.xml" rel="self" />
     <link href="https://hanlei1982.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-03-18T14:21:55+08:00</updated>
     <author>
         <name>hanlei</name>
     </author>
     <id>https://hanlei1982.github.io</id>
 
+    <entry>
+        <title>重复发布</title>
+        <author>
+            <name>hanlei</name>
+        </author>
+        <link href="https://hanlei1982.github.io/chong-fu-fa-bu.html"/>
+        <id>https://hanlei1982.github.io/chong-fu-fa-bu.html</id>
+            <category term="学习"/>
+
+        <updated>2022-03-18T14:21:55+08:00</updated>
+            <summary>
+                <![CDATA[
+                    重复发布车市
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>重复发布车市</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

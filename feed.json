@@ -9,5 +9,20 @@
         "name": "hanlei"
     },
     "items": [
+        {
+            "id": "https://hanlei1982.github.io/chong-fu-fa-bu.html",
+            "url": "https://hanlei1982.github.io/chong-fu-fa-bu.html",
+            "title": "重复发布",
+            "summary": "重复发布车市",
+            "content_html": "<p>重复发布车市</p>",
+            "author": {
+                "name": "hanlei"
+            },
+            "tags": [
+                   "学习"
+            ],
+            "date_published": "2022-03-18T14:21:55+08:00",
+            "date_modified": "2022-03-18T14:21:55+08:00"
+        }
     ]
 }
