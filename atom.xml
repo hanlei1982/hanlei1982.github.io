@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hanlei1982.github.io</id>
     <title>HanLei&apos;s blog</title>
-    <updated>2022-03-18T01:29:39.539Z</updated>
+    <updated>2022-03-18T01:41:34.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hanlei1982.github.io"/>
     <link rel="self" href="https://hanlei1982.github.io/atom.xml"/>
@@ -10,24 +10,6 @@
     <logo>https://hanlei1982.github.io/images/avatar.png</logo>
     <icon>https://hanlei1982.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, HanLei&apos;s blog</rights>
-    <entry>
-        <title type="html"><![CDATA[哈哈，老是出问题，没法玩了]]></title>
-        <id>https://hanlei1982.github.io/post/ha-ha-lao-shi-chu-wen-ti-mei-fa-wan-liao/</id>
-        <link href="https://hanlei1982.github.io/post/ha-ha-lao-shi-chu-wen-ti-mei-fa-wan-liao/">
-        </link>
-        <updated>2022-03-17T17:13:48.000Z</updated>
-        <content type="html"><![CDATA[<p>老是出问题，没法玩了，</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈哈，测试又来了]]></title>
-        <id>https://hanlei1982.github.io/post/ha-ha-ce-shi-you-lai-liao/</id>
-        <link href="https://hanlei1982.github.io/post/ha-ha-ce-shi-you-lai-liao/">
-        </link>
-        <updated>2022-03-17T11:40:50.000Z</updated>
-        <content type="html"><![CDATA[<p>哎，这个东西挺操蛋的，老是失败</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hanlei1982.github.io/post/hello-gridea/</id>
