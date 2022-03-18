@@ -3,16 +3,39 @@
     <title>hanlei&#x27;s blog</title>
     <link href="https://hanlei1982.github.io/feed.xml" rel="self" />
     <link href="https://hanlei1982.github.io" />
-    <updated>2022-03-18T10:31:46+08:00</updated>
+    <updated>2022-03-18T10:41:48+08:00</updated>
     <author>
-        <name>blog</name>
+        <name>hanlei</name>
     </author>
     <id>https://hanlei1982.github.io</id>
 
     <entry>
+        <title>好吧，再来一测试文章</title>
+        <author>
+            <name>hanlei</name>
+        </author>
+        <link href="https://hanlei1982.github.io/hao-bazai-lai-yi-ce-shi-wen-zhang.html"/>
+        <id>https://hanlei1982.github.io/hao-bazai-lai-yi-ce-shi-wen-zhang.html</id>
+            <category term="学习"/>
+
+        <updated>2022-03-18T10:41:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://hanlei1982.github.io/media/posts/3/veer-170886280.jpg" alt="" />
+                    这还软件如果不是英文的，应该很好用，不知道有没有大神可以汉化一下这个软件，做个定制主题，会是一个不错的选择
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://hanlei1982.github.io/media/posts/3/veer-170886280.jpg" alt="" />
+                <p>这还软件如果不是英文的，应该很好用，不知道有没有大神可以汉化一下这个软件，做个定制主题，会是一个不错的选择</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>这是个什么情况那“”</title>
         <author>
-            <name>blog</name>
+            <name>hanlei</name>
         </author>
         <link href="https://hanlei1982.github.io/zhe-shi-ge-shi-me-qing-kuang-na.html"/>
         <id>https://hanlei1982.github.io/zhe-shi-ge-shi-me-qing-kuang-na.html</id>
@@ -34,7 +57,7 @@
     <entry>
         <title>测试文章，看看publii</title>
         <author>
-            <name>blog</name>
+            <name>hanlei</name>
         </author>
         <link href="https://hanlei1982.github.io/ce-shi-wen-zhangkan-kan-publii.html"/>
         <id>https://hanlei1982.github.io/ce-shi-wen-zhangkan-kan-publii.html</id>

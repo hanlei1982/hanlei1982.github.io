@@ -6,9 +6,25 @@
     "feed_url": "https://hanlei1982.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "blog"
+        "name": "hanlei"
     },
     "items": [
+        {
+            "id": "https://hanlei1982.github.io/hao-bazai-lai-yi-ce-shi-wen-zhang.html",
+            "url": "https://hanlei1982.github.io/hao-bazai-lai-yi-ce-shi-wen-zhang.html",
+            "title": "好吧，再来一测试文章",
+            "summary": "这还软件如果不是英文的，应该很好用，不知道有没有大神可以汉化一下这个软件，做个定制主题，会是一个不错的选择",
+            "content_html": "<p>这还软件如果不是英文的，应该很好用，不知道有没有大神可以汉化一下这个软件，做个定制主题，会是一个不错的选择</p>",
+            "image": "https://hanlei1982.github.io/media/posts/3/veer-170886280.jpg",
+            "author": {
+                "name": "hanlei"
+            },
+            "tags": [
+                   "学习"
+            ],
+            "date_published": "2022-03-18T10:41:48+08:00",
+            "date_modified": "2022-03-18T10:41:48+08:00"
+        },
         {
             "id": "https://hanlei1982.github.io/zhe-shi-ge-shi-me-qing-kuang-na.html",
             "url": "https://hanlei1982.github.io/zhe-shi-ge-shi-me-qing-kuang-na.html",
@@ -16,7 +32,7 @@
             "summary": "这是个什么请永康到了发，想怎么发 的看法偶尔分 电脑覅按分类大分类法啊了 采用publii",
             "content_html": "<p class=\"align-right\">这是个什么请永康到了发，想怎么发 的看法偶尔分</p>\n<p class=\"align-right\">电脑覅按分类大分类法啊了</p>\n<p>采用publii</p>",
             "author": {
-                "name": "blog"
+                "name": "hanlei"
             },
             "tags": [
             ],
@@ -30,7 +46,7 @@
             "summary": "测试文章，看看publii能不能成功，效果怎么样？",
             "content_html": "<p>测试文章，看看publii能不能成功，效果怎么样？</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://hanlei1982.github.io/media/posts/1/veer-170886280.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://hanlei1982.github.io/media/posts/1/responsive/veer-170886280-xs.jpg 300w ,https://hanlei1982.github.io/media/posts/1/responsive/veer-170886280-sm.jpg 480w ,https://hanlei1982.github.io/media/posts/1/responsive/veer-170886280-md.jpg 768w\"  alt=\"\" width=\"1600\" height=\"1067\"></figure>",
             "author": {
-                "name": "blog"
+                "name": "hanlei"
             },
             "tags": [
             ],
