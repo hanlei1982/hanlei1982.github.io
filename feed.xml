@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Hanlei&#x27;s Blog</title>
+    <link href="https://hanlei1982.github.io/feed.xml" rel="self" />
+    <link href="https://hanlei1982.github.io" />
+    <updated>2023-06-25T23:39:03+08:00</updated>
+    <author>
+        <name>HanLei</name>
+    </author>
+    <id>https://hanlei1982.github.io</id>
+
+    <entry>
+        <title>hi</title>
+        <author>
+            <name>HanLei</name>
+        </author>
+        <link href="https://hanlei1982.github.io/hi.html"/>
+        <id>https://hanlei1982.github.io/hi.html</id>
+
+        <updated>2023-06-25T23:39:03+08:00</updated>
+            <summary>
+                <![CDATA[
+                    兜兜转转，还是以前
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>兜兜转转，还是以前</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
